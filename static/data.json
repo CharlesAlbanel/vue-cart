@@ -1,0 +1,9 @@
+{
+    "state": 1,
+    "totalMoney":620,
+    "shoppingList":[
+        {"name":"裤子","price":100,"count":2},
+        {"name":"衬衫","price":150,"count":2},
+        {"name":"鞋子","price":120,"count":1}
+    ]
+}
